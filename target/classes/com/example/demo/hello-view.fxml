@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Ellipse?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="401.0" fitWidth="603.0" layoutX="-2.0" layoutY="-1.0" pickOnBounds="true" smooth="false">
+         <image>
+            <Image url="@../../../../../../../1276993.jpg" />
+         </image>
+      </ImageView>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#0d0d0d" height="149.0" layoutY="251.0" stroke="BLACK" strokeType="INSIDE" width="73.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#030303" height="149.0" layoutX="395.0" layoutY="251.0" stroke="BLACK" strokeType="INSIDE" width="29.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#030303" height="149.0" layoutX="549.0" layoutY="251.0" stroke="BLACK" strokeType="INSIDE" width="52.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#030303" height="149.0" layoutX="127.0" layoutY="251.0" stroke="BLACK" strokeType="INSIDE" width="108.0" />
+      <Rectangle arcWidth="5.0" fill="#ff1f1f" height="4.0" layoutX="176.0" layoutY="251.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="10.0" />
+      <Rectangle arcWidth="5.0" fill="#ff1f1f" height="4.0" layoutX="408.0" layoutY="251.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="3.0" />
+      <Rectangle arcWidth="5.0" fill="#ff1f1f" height="4.0" layoutX="573.0" layoutY="251.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="3.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#197da1" height="52.0" layoutX="25.0" layoutY="200.0" stroke="BLACK" strokeType="INSIDE" width="25.0" />
+      <Circle fill="DODGERBLUE" layoutX="46.0" layoutY="210.0" radius="3.0" stroke="BLACK" strokeType="INSIDE" />
+      <Rectangle arcWidth="5.0" fill="#84fc6c" height="5.0" layoutX="25.0" layoutY="204.0" stroke="BLACK" strokeType="INSIDE" width="25.0" />
+      <Rectangle arcWidth="5.0" fill="DODGERBLUE" height="4.0" layoutX="41.0" layoutY="215.0" stroke="BLACK" strokeType="INSIDE" width="9.0" />
+      <Rectangle arcWidth="5.0" fill="#197da1" height="4.0" layoutX="49.0" layoutY="230.0" stroke="BLACK" strokeType="INSIDE" width="3.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" blendMode="LIGHTEN" fill="#5b8bb5" height="52.0" layoutX="211.0" layoutY="18.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="159.0" />
+      <Text layoutX="281.0" layoutY="56.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0" wrappingWidth="12.033599969332613">
+         <font>
+            <Font size="34.0" />
+         </font>
+      </Text>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" blendMode="LIGHTEN" fill="#5b8bb5" height="33.0" layoutX="510.0" layoutY="29.0" stroke="BLACK" strokeType="INSIDE" width="44.0" />
+      <Ellipse fill="#c25cc9" layoutX="494.0" layoutY="46.0" radiusX="11.0" radiusY="10.0" stroke="BLACK" strokeType="INSIDE" />
+      <Text layoutX="527.0" layoutY="53.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0" wrappingWidth="12.033599969332613">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Text>
+      <Ellipse fill="#c25cc9" layoutX="299.0" layoutY="262.0" radiusX="8.0" radiusY="8.0" stroke="BLACK" strokeType="INSIDE" />
+      <Ellipse fill="#c25cc9" layoutX="488.0" layoutY="234.0" radiusX="8.0" radiusY="8.0" stroke="BLACK" strokeType="INSIDE" />
+   </children>
+</AnchorPane>
