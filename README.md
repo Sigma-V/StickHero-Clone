@@ -1,4 +1,4 @@
-# StickHero_approject
+# StickHero | AP Project ( CSE201 ) 
 Project Title: Stick Hero - Clone
 
 Author(s):  Varun Bharti , Shashwat Jha
