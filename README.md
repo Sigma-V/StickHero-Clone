@@ -8,10 +8,10 @@ This repository contains the source code for a JavaFX game inspired by the class
 
 Features:
 
-*Players control a stick-hero who bridges gaps between platforms using a stick.
-*Multiple platforms of varying widths provide challenge.
-*Players collect cherries to increase score and can potentially revive with enough cherries.
-*Precise timing is required to successfully land on platforms.
-*Scoring system rewards collecting cherries.
-*Option to save player progress (score and cherries).
-*Graphics, sound effects, and animations enhance gameplay (mention libraries used if any).
+* Players control a stick-hero who bridges gaps between platforms using a stick.
+* Multiple platforms of varying widths provide challenge.
+* Players collect cherries to increase score and can potentially revive with enough cherries.
+* Precise timing is required to successfully land on platforms.
+* Scoring system rewards collecting cherries.
+* Option to save player progress (score and cherries).
+* Graphics, sound effects, and animations enhance gameplay (mention libraries used if any).
